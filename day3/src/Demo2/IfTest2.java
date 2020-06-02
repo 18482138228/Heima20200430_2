@@ -22,6 +22,8 @@ public class IfTest2 {
         }else {
             System.out.println("你的成绩属于不及格");
         }
+        //sdsadasdsadsadsadsad
+
 
     }
 }
