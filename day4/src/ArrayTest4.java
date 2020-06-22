@@ -15,6 +15,11 @@ public class ArrayTest4 {
         System.out.println("----------------");
 
 
-        System.out.println("数组的长度为"+arr.length);
+        System.out.println("数组的长度为"+arr.length+"个");
+        System.out.println("---------------");
+        for (int x=0;x<arr.length;x++){
+            System.out.println(arr[x]);
+        }
+
     }
 }
